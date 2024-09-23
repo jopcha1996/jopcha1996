@@ -2,9 +2,7 @@
 - 👀 I’m interested in playing volleyball
 - 🌱 I’m currently learning game theory
 - 💞️ I’m looking to collaborate on tech companies
-- 📫 How to reach me, 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can reach me through email at jopetdechavez@gmail.com or on my cellular mobile number +639938646987
 
 <!---
 jopcha1996/jopcha1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
